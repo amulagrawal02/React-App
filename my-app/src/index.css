@@ -1,0 +1,22 @@
+.booklist
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  margin : 2em auto;
+  
+}
+
+.book{
+   text-align: center;
+   padding: 0.5rem;
+   margin: 1rem auto;
+   background-color: seashell
+  
+}
+
+img{
+    width: 200px;
+    height: 200px;
+   
+}
